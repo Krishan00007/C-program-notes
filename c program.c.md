@@ -1,9 +1,9 @@
-**My c programes assignmen**
+**My C programes assignment**
 
-##1:To print hello world
+## Heading1:To print hello world
 
 ```
-     //To print  hello world
+//To print  hello world
 #include<stdio.h>
 int main()
 {                     
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzcxMTgzMiwzMDkxNDUyODEsLTQ4Mz
-QxNjgxM119
+eyJoaXN0b3J5IjpbLTIwMjUxNzQ1OTYsMzA5MTQ1MjgxLC00OD
+M0MTY4MTNdfQ==
 -->
