@@ -1,4 +1,4 @@
-**My c programes**
+**My c programes assignmen**
 
 ##1:To print hello world
 
@@ -460,5 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTc5MzcxMTgzMiwzMDkxNDUyODEsLTQ4Mz
+QxNjgxM119
 -->
