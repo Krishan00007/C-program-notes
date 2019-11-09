@@ -106,7 +106,7 @@ int main()
  }
 ```
 
-## 7:To show area,premiter,volume of square
+## 7:To show area,perimeter,volume of square
 ```
    
  //Area,premiter,volume of square
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzA4Njc2LDMwOTE0NTI4MSwtNDgzND
-E2ODEzXX0=
+eyJoaXN0b3J5IjpbLTkyNzM4ODU5OSwzMDkxNDUyODEsLTQ4Mz
+QxNjgxM119
 -->
