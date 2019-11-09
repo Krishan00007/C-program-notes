@@ -144,7 +144,7 @@ return 0;
 }
 ```
 
-##8:To show area,diameter,circumference of circle 
+## 8:To show area,diameter,circumference of circle 
 ```
    #include<stdio.h>
  int main()
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzM4ODU5OSwzMDkxNDUyODEsLTQ4Mz
+eyJoaXN0b3J5IjpbMTQ5NTIyNjIxMSwzMDkxNDUyODEsLTQ4Mz
 QxNjgxM119
 -->
