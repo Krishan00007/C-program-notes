@@ -331,7 +331,7 @@ puts("|        |        |");
 puts("|________|________|");
 }
 ```
-##16:To convert fahrehnite to celcius and kelvin
+## 16:To convert fahrehnite to celcius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
                  #include<stdio.h>
@@ -385,7 +385,7 @@ printf("= %d\n",result);
 return 0;
 }
 ```
- ##  19:To show stars pattern 
+ ## 19:To show stars pattern 
  ```
  //to show star pattern for n numbers
 #include<stdio.h>
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDkzMDI5NiwzMDkxNDUyODEsLTQ4Mz
-QxNjgxM119
+eyJoaXN0b3J5IjpbLTQyMzA4Njc2LDMwOTE0NTI4MSwtNDgzND
+E2ODEzXX0=
 -->
