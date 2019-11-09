@@ -367,7 +367,7 @@ int main()
  }
  ```
  
- ##18:To show factorial result
+ ## 18:To show factorial result
  ```
  //To show factorial of user input
 #include<stdio.h>
@@ -385,7 +385,7 @@ printf("= %d\n",result);
 return 0;
 }
 ```
- ## 19:To show stars pattern 
+ ##  19:To show stars pattern 
  ```
  //to show star pattern for n numbers
 #include<stdio.h>
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNzQ1MTUwLDMwOTE0NTI4MSwtNDgzND
-E2ODEzXX0=
+eyJoaXN0b3J5IjpbMjA0MDkzMDI5NiwzMDkxNDUyODEsLTQ4Mz
+QxNjgxM119
 -->
