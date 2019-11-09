@@ -210,7 +210,7 @@ printf("The celcius value is:%f\n",c);
 return 0;
 }
 ```
-##12: To show the table range 
+## 12: To show the table range 
 ```
 //To show a range of table upto user input
 #include<stdio.h>
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTIyNjIxMSwzMDkxNDUyODEsLTQ4Mz
-QxNjgxM119
+eyJoaXN0b3J5IjpbLTE5MDAzOTQ1NTksMzA5MTQ1MjgxLC00OD
+M0MTY4MTNdfQ==
 -->
