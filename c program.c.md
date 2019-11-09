@@ -248,7 +248,7 @@ printf("enter even number\n");
 return 0;}
 ```
 
-##14: To show result of operands
+## 14: To show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
 #include<stdio.h>
@@ -277,7 +277,7 @@ default : printf("Enter correct operator ");
 return 0;
 }
 ```
-##15:To call a patterns of face and calculator
+## 15:To call a patterns of face and calculator
 ```
 // call a pattern of face or calculator
              #include<stdio.h>
@@ -346,7 +346,7 @@ b=((a-32.00)*5.00)/9.00;
  printf("kelvin value is:%.2f\n",c=b+273.00);
   return 0;} 
 ```
-##17:To show stars pattern
+## 17:To show stars pattern
 ```
  // TO show stars using loop 
 #include<stdio.h>
@@ -385,7 +385,7 @@ printf("= %d\n",result);
 return 0;
 }
 ```
- ##19:To show stars pattern 
+ ## 19:To show stars pattern 
  ```
  //to show star pattern for n numbers
 #include<stdio.h>
@@ -406,7 +406,7 @@ int main()
  return 0;
 }
 ```
-##20:Matrix multipication
+## 20:Matrix multipication
  ```
 #include<stdio.h>
 int main()
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTkwMzk4MCwzMDkxNDUyODEsLTQ4Mz
-QxNjgxM119
+eyJoaXN0b3J5IjpbNzUwNzQ1MTUwLDMwOTE0NTI4MSwtNDgzND
+E2ODEzXX0=
 -->
