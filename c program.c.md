@@ -1,6 +1,6 @@
 **My C programes assignment**
 
-## Heading1:To print hello world
+## 1:To print hello world
 
 ```
 //To print  hello world
@@ -11,7 +11,7 @@ int main()
 }
 ```
 
-##2:To fill your information
+## 2:To fill your information
 
 ```
   // To fill your information
@@ -42,7 +42,7 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 }
 ```
 
-##3:To find sum of two numbers
+## 3:To find sum of two numbers
 ```
 
      // to find sum of two numbers
@@ -59,7 +59,7 @@ int main()
  }
 ```
 
-##4:Sum and average of numbers
+## 4:Sum and average of numbers
 ```
  // sum and average of number
 #include<stdio.h>
@@ -76,7 +76,7 @@ int main()
   }
 ``` 
 
-  ##5:To find number is even or odd
+  ## 5:To find number is even or odd
   ```
        #include<stdio.h>
 int main()
@@ -91,7 +91,7 @@ int main()
  }
 ```
 
-##6:To show the size of int,float,char,double,long,short
+## 6:To show the size of int,float,char,double,long,short
 ```
  // size of int, float, char, double, long, short
 #include<stdio.h>
@@ -106,7 +106,7 @@ int main()
  }
 ```
 
-##7:To show area,premiter,volume of square
+## 7:To show area,premiter,volume of square
 ```
    
  //Area,premiter,volume of square
@@ -129,7 +129,7 @@ void square()
 }
 ```
 
-##7:To show puts value upto n number using loop
+## 7:To show puts value upto n number using loop
 ```
 // to show punishment using loop
  #include<stdio.h>
@@ -160,7 +160,7 @@ return 0;
  } 
 ```
 
-##9:To find area and volume of rectangle
+## 9:To find area and volume of rectangle
 ```
 //find area and volume of rectangle
 #include<stdio.h>
@@ -179,7 +179,7 @@ int main()
  }
  ```
  
- ##10:To represent a table of user input 
+ ## 10:To represent a table of user input 
  
  ```
   // To represent a table of user input  number
@@ -196,7 +196,7 @@ int main()
 return 0;
 }
 ```
-##11:To convert Fahrehnite to Celcius
+## 11:To convert Fahrehnite to Celcius
 ```
 //to convert fahrehnite to celcius
 #include<stdio.h>
@@ -228,7 +228,7 @@ int main()
  return 0;
  }
 ```
-##13:To show even table
+## 13:To show even table
 ```
 //To show only even table
 #include<stdio.h>
@@ -460,6 +460,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxNzQ1OTYsMzA5MTQ1MjgxLC00OD
-M0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTI5MTkwMzk4MCwzMDkxNDUyODEsLTQ4Mz
+QxNjgxM119
 -->
