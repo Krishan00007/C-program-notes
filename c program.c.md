@@ -187,6 +187,7 @@ int main()
  return 0;
  }
  ```
+ **OUTPUT**:
  
  ## 10:To represent a table of user input 
  
@@ -205,6 +206,7 @@ int main()
 return 0;
 }
 ```
+**OUTPUT**:
 ## 11:To convert Fahrehnite to Celcius
 ```
 //to convert fahrehnite to celcius
@@ -219,6 +221,7 @@ printf("The celcius value is:%f\n",c);
 return 0;
 }
 ```
+**OUTPUT**;
 ## 12: To show the table range 
 ```
 //To show a range of table upto user input
@@ -237,6 +240,7 @@ int main()
  return 0;
  }
 ```
+**OUTPUT**:
 ## 13:To show even table
 ```
 //To show only even table
@@ -256,6 +260,7 @@ printf("enter even number\n");
 
 return 0;}
 ```
+**
 
 ## 14: To show result of operands
 ```
@@ -469,6 +474,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjQ4NzUyNSwtMjAyNTg3OTIwMiwtMT
-kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
+eyJoaXN0b3J5IjpbLTEyNDgxOTAzMDYsLTIwMjU4NzkyMDIsLT
+E5MDAzOTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
 -->
