@@ -383,7 +383,9 @@ int main()
  return 0;
  }
  ```
- **OUTPUT**:Enter the no. to show pattern:8
+ **OUTPUT**:
+ ```
+ Enter the no. to show pattern:8
 * * * * * * * * 
 * * * * * * * 
 * * * * * * 
@@ -392,6 +394,7 @@ int main()
 * * * 
 * * 
 *
+```
  
  ## 18:To show factorial result
  ```
@@ -503,7 +506,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDA0MzcwNywtODc4NTgzNTQzLC0xMz
-E4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0
-NTI4MSwtNDgzNDE2ODEzXX0=
+eyJoaXN0b3J5IjpbNDk2Mjc5MTQ1LC04Nzg1ODM1NDMsLTEzMT
+gwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMzA5MTQ1
+MjgxLC00ODM0MTY4MTNdfQ==
 -->
