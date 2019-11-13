@@ -291,6 +291,7 @@ default : printf("Enter correct operator ");
 return 0;
 }
 ```
+
 **OUTPUT**:
 ## 15:To call a patterns of face and calculator
 ```
@@ -554,8 +555,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzI2MzQyMCwtMjMyMDc4MTA4LDEzMT
-EwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0
-MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OS
-wzMDkxNDUyODEsLTQ4MzQxNjgxM119
+eyJoaXN0b3J5IjpbNDA3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMT
+A0MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQz
+LC0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LD
+MwOTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
