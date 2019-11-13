@@ -192,23 +192,13 @@ Volume of square:64
  printf("Enter the number upto punishment is shown:");
  scanf("%d",&a);
   for(i=1;i<=a;i++)
-puts("Be the best,fuck the rest ");
+puts("WORK HARD AND ACHIEVE SUCCESS ");
 return 0;
 }
 ```
 **OUTPUT**:
 ```
-Enter the number upto punishment is shown:10
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest 
-Be the best,fuck the rest
+Enter the 
 ```
 ## 8:To show area,diameter,circumference of circle 
 ```
@@ -697,11 +687,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTM4NDY2NCwxNjE4MDI1MjgwLDQ4Nz
-QwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMDkyLC0yNjA0NDkx
-NjcsLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02NDMwODgyNTYsMz
-kzMzk5MjM4LDc3NDk0NzcxMywtMTkzNDk3MDA2NiwtMTUzMzIx
-NTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEwOCwxMzExMDQzOTM3LD
-g2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1NDMsLTEzMTgw
-OTU0ODVdfQ==
+eyJoaXN0b3J5IjpbMTU5NzQ5MjI5LDE0MDEzODQ2NjQsMTYxOD
+AyNTI4MCw0ODc0MDQzMDEsMjA5NjgyMTAzNCwtMjEyODkxMjA5
+MiwtMjYwNDQ5MTY3LC0yNzc2MDk4MTEsMTEzNTIwMDk2MSwtNj
+QzMDg4MjU2LDM5MzM5OTIzOCw3NzQ5NDc3MTMsLTE5MzQ5NzAw
+NjYsLTE1MzMyMTU4NTYsNDA3NDU3NDIyLC0yMzIwNzgxMDgsMT
+MxMTA0MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgz
+NTQzXX0=
 -->
