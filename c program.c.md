@@ -10,8 +10,10 @@ int main()
  printf("\nHello world\n");
 }
 ```
-**OUTPUT:**  Hello world
-
+**OUTPUT:**
+``` 
+ Hello world
+```
 ## 2:To fill your information
 
 ```
@@ -43,6 +45,8 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 }
 ```
 **OUTPUT:**
+```
+
 
 ## 3:To find sum of two numbers
 ```
@@ -62,7 +66,10 @@ int main()
 ```
 **OUTPUT**:
 ```
-
+Enter two numbers to get sum:45 55
+ 
+The result is :45 + 55= 100
+```
 ## 4:Sum and average of numbers
 ```
  // sum and average of number
@@ -677,11 +684,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkwMjI0OTEsNDg3NDA0MzAxLDIwOT
-Y4MjEwMzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMjc3NjA5
-ODExLDExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNz
-c0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1
-NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC
-0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAy
-NTg3OTIwMl19
+eyJoaXN0b3J5IjpbMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5Nj
+gyMTAzNCwtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4
+MTEsMTEzNTIwMDk2MSwtNjQzMDg4MjU2LDM5MzM5OTIzOCw3Nz
+Q5NDc3MTMsLTE5MzQ5NzAwNjYsLTE1MzMyMTU4NTYsNDA3NDU3
+NDIyLC0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4NjAxMjY4MDksLT
+E0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1
+ODc5MjAyXX0=
 -->
