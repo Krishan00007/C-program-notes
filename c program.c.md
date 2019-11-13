@@ -260,7 +260,7 @@ printf("enter even number\n");
 
 return 0;}
 ```
-**
+**OUTPUT**:
 
 ## 14: To show result of operands
 ```
@@ -291,6 +291,7 @@ default : printf("Enter correct operator ");
 return 0;
 }
 ```
+**OUTPUT**:
 ## 15:To call a patterns of face and calculator
 ```
 // call a pattern of face or calculator
@@ -345,6 +346,7 @@ puts("|        |        |");
 puts("|________|________|");
 }
 ```
+**OUTPUT**:
 ## 16:To convert fahrehnite to celcius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
@@ -360,6 +362,7 @@ b=((a-32.00)*5.00)/9.00;
  printf("kelvin value is:%.2f\n",c=b+273.00);
   return 0;} 
 ```
+**OUTPUT**:
 ## 17:To show stars pattern
 ```
  // TO show stars using loop 
@@ -380,6 +383,7 @@ int main()
  return 0;
  }
  ```
+ **OUTPUT**:
  
  ## 18:To show factorial result
  ```
@@ -474,6 +478,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgxOTAzMDYsLTIwMjU4NzkyMDIsLT
-E5MDAzOTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbMTE4NTczMjU5NywtMjAyNTg3OTIwMiwtMT
+kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
 -->
