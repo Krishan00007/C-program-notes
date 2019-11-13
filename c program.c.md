@@ -10,6 +10,7 @@ int main()
  printf("\nHello world\n");
 }
 ```
+**OUTPUT:**  Hello world
 
 ## 2:To fill your information
 
@@ -41,6 +42,7 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 
 }
 ```
+**OUTPUT**
 
 ## 3:To find sum of two numbers
 ```
@@ -460,6 +462,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMz
-A5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTU5MzU3ODA2NiwtMjAyNTg3OTIwMiwtMT
+kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
 -->
