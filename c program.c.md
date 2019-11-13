@@ -188,7 +188,16 @@ int main()
  }
  ```
  **OUTPUT**:
- 
+ ```
+ Enter length of rectangle:4 
+
+Enter breadth of rectangle:3 
+
+Enter height of rectangle:4
+
+The area of rectangle is:12
+The volume is :48
+```
  
  ## 10:To represent a table of user input 
  
@@ -625,10 +634,10 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTIwMDk2MSwtNjQzMDg4MjU2LDM5Mz
-M5OTIzOCw3NzQ5NDc3MTMsLTE5MzQ5NzAwNjYsLTE1MzMyMTU4
-NTYsNDA3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4Nj
-AxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1
-NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MS
-wtNDgzNDE2ODEzXX0=
+eyJoaXN0b3J5IjpbLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02ND
+MwODgyNTYsMzkzMzk5MjM4LDc3NDk0NzcxMywtMTkzNDk3MDA2
+NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEwOCwxMz
+ExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1
+NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NT
+ksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
 -->
