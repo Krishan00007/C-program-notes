@@ -42,7 +42,7 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 
 }
 ```
-**OUTPUT**
+**OUTPUT:**
 
 ## 3:To find sum of two numbers
 ```
@@ -60,6 +60,7 @@ int main()
     return 0;
  }
 ```
+**OUTPUT**:
 
 ## 4:Sum and average of numbers
 ```
@@ -77,6 +78,7 @@ int main()
    printf("The average is:%d\n",avg);
   }
 ``` 
+**OUTPUT**:
 
   ## 5:To find number is even or odd
   ```
@@ -92,6 +94,7 @@ int main()
    printf("The number is odd\n");
  }
 ```
+
 
 ## 6:To show the size of int,float,char,double,long,short
 ```
@@ -462,6 +465,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzU3ODA2NiwtMjAyNTg3OTIwMiwtMT
+eyJoaXN0b3J5IjpbLTQ5NzkzOTczOCwtMjAyNTg3OTIwMiwtMT
 kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
 -->
