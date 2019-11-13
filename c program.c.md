@@ -436,7 +436,19 @@ int main()
  return 0;
 }
 ```
-**OUTPUT**;
+**OUTPUT**:
+```
+Enter the value upto pattern is shown:8
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * * 
+1921057@
+
 ## 20:Matrix multipication
  ```
 #include<stdio.h>
@@ -506,7 +518,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2Mjc5MTQ1LC04Nzg1ODM1NDMsLTEzMT
+eyJoaXN0b3J5IjpbLTExNzU4MDUyLC04Nzg1ODM1NDMsLTEzMT
 gwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMzA5MTQ1
 MjgxLC00ODM0MTY4MTNdfQ==
 -->
