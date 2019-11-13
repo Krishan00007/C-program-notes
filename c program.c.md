@@ -151,7 +151,19 @@ return 0;
 }
 ```
 **OUTPUT**:
-
+```
+Enter the number upto punishment is shown:10
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest 
+Be the best,fuck the rest
+```
 ## 8:To show area,diameter,circumference of circle 
 ```
    #include<stdio.h>
@@ -639,10 +651,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDQ0OTE2NywtMjc3NjA5ODExLDExMz
-UyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEz
-LC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMj
-MyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgz
-NDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMi
-wtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
+eyJoaXN0b3J5IjpbLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMj
+c3NjA5ODExLDExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTky
+MzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LD
+QwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2
+ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NS
+wtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4
+MzQxNjgxM119
 -->
