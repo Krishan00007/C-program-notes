@@ -348,6 +348,7 @@ puts("|________|________|");
 ```
 **OUTPUT**:
 ```
+IF YOU ENTER 0 THEN 
 enter 0 to see a calculator or 1 to see face
 0
  _______________
@@ -362,7 +363,8 @@ enter 0 to see a calculator or 1 to see face
 |     0     | * |
 |___________|___|
 
-nter 0 to see a calculator or 1 to see face
+IF YOU ENTER ANOTHER
+enter 0 to see a calculator or 1 to see face
 1
 ___________________
 |   XXXXXXXXXXX   |
@@ -552,8 +554,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjA3ODEwOCwxMzExMDQzOTM3LDg2MD
-EyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1NDMsLTEzMTgwOTU0
-ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMzA5MTQ1MjgxLC
-00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbMzIzNTgxNzUsLTIzMjA3ODEwOCwxMzExMD
+QzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1NDMs
+LTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMz
+A5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
 -->
