@@ -363,6 +363,7 @@ b=((a-32.00)*5.00)/9.00;
   return 0;} 
 ```
 **OUTPUT**:
+
 ## 17:To show stars pattern
 ```
  // TO show stars using loop 
@@ -520,7 +521,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMz
-E4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0
-NTI4MSwtNDgzNDE2ODEzXX0=
+eyJoaXN0b3J5IjpbLTExMTM0ODUxOTIsLTE0MDM0ODM0MiwtOD
+c4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAw
+Mzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
