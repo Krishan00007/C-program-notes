@@ -374,9 +374,7 @@ ___________________
 |       \_/       |
 |        |        |
 |________|________|
-1921057@com
-
-
+```
 ## 16:To convert fahrehnite to celcius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
@@ -554,8 +552,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE3MTA4NjMsMTMxMTA0MzkzNyw4Nj
-AxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1
-NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MS
-wtNDgzNDE2ODEzXX0=
+eyJoaXN0b3J5IjpbNzA4OTc5MjEsMTMxMTA0MzkzNyw4NjAxMj
+Y4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1
+LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtND
+gzNDE2ODEzXX0=
 -->
