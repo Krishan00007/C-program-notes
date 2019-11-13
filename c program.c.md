@@ -346,9 +346,8 @@ puts("|        |        |");
 puts("|________|________|");
 }
 ```
-**OUTPUT**:
-```
-IF YOU ENTER 0 THEN 
+**OUTPUT**:IF YOU ENTER 0 THEN OUTPUT IS :
+``` 
 enter 0 to see a calculator or 1 to see face
 0
  _______________
@@ -554,8 +553,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNTgxNzUsLTIzMjA3ODEwOCwxMzExMD
-QzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1NDMs
-LTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMz
-A5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbMzc2NDczNTc0LC0yMzIwNzgxMDgsMTMxMT
+A0MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQz
+LC0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LD
+MwOTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
