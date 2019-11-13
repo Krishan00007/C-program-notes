@@ -168,7 +168,12 @@ return 0;
  } 
 ```
 **OUTPUT**:
-
+```
+Enter radius of circle:6
+diameter of circle is:12.000000
+circumference of circle:37.680000
+Area of circle:113.040001
+```
 ## 9:To find area and volume of rectangle
 ```
 //find area and volume of rectangle
@@ -634,10 +639,10 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02ND
-MwODgyNTYsMzkzMzk5MjM4LDc3NDk0NzcxMywtMTkzNDk3MDA2
-NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEwOCwxMz
-ExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1
-NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NT
-ksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTI2MDQ0OTE2NywtMjc3NjA5ODExLDExMz
+UyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEz
+LC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMj
+MyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgz
+NDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMi
+wtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
 -->
