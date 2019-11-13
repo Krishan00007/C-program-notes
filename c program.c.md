@@ -221,7 +221,7 @@ printf("The celcius value is:%f\n",c);
 return 0;
 }
 ```
-**OUTPUT**;
+**OUTPUT**:
 ## 12: To show the table range 
 ```
 //To show a range of table upto user input
@@ -597,9 +597,9 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc0MDIzMzYsLTE5MzQ5NzAwNjYsLT
-E1MzMyMTU4NTYsNDA3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMTA0
-MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC
-0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMw
-OTE0NTI4MSwtNDgzNDE2ODEzXX0=
+eyJoaXN0b3J5IjpbNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNT
+MzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5
+MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMT
+MxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkx
+NDUyODEsLTQ4MzQxNjgxM119
 -->
