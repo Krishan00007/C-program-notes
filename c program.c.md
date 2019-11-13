@@ -294,7 +294,7 @@ return 0;
 
 **OUTPUT**:
 nter first  number:20
-enter operator[+ - % / **]:***
+enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
 ## 15:To call a patterns of face and calculator
@@ -559,8 +559,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzEyMjg2OCw0MDc0NTc0MjIsLTIzMj
-A3ODEwOCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQy
-LC04Nzg1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLT
-E5MDAzOTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1MzMyMTU4NTYsNDA3NDU3NDIyLC0yMz
+IwNzgxMDgsMTMxMTA0MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0
+MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC
+0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
