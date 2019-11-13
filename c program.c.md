@@ -339,6 +339,7 @@ enter first  number:20
 enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
+```
 ## 15:To call a patterns of face and calculator
 ```
 // call a pattern of face or calculator
@@ -440,9 +441,11 @@ b=((a-32.00)*5.00)/9.00;
   return 0;} 
 ```
 **OUTPUT**:
+```
 Enter a fahrenheit value:450
 celsius value is:232.22
 kelvin value is:505.37
+```
 
 ## 17:To show stars pattern
 ```
@@ -496,8 +499,10 @@ return 0;
 }
 ```
 **OUTPUT**:
+```
 Enter the factorial of:5
 5 X 4 X 3 X 2 X 1 X = 120
+```
  ## 19:To show stars pattern 
  ```
  //to show star pattern for n numbers
@@ -586,6 +591,7 @@ for(c=0;c<m;c++)
  }
  ```
  **OUTPUT**:
+ ```
  Enter the number of rows and column of first matrix:
 2 2
 Enter elements of first matrix:
@@ -599,9 +605,9 @@ Enter the elements of second matrix:
 product of the matrix:
 15      22
 23      34
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxODc0ODE4LDc3NDk0NzcxMywtMTkzND
+eyJoaXN0b3J5IjpbMzkzMzk5MjM4LDc3NDk0NzcxMywtMTkzND
 k3MDA2NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEw
 OCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nz
 g1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAz
