@@ -79,6 +79,7 @@ int main()
   }
 ``` 
 **OUTPUT**:
+```
 
   ## 5:To find number is even or odd
   ```
@@ -101,7 +102,9 @@ The  number is even
 ```
 ***OR***
 ```
-
+Enter a number:7
+The number is odd
+```
 ## 6:To show the size of int,float,char,double,long,short
 ```
  // size of int, float, char, double, long, short
@@ -670,7 +673,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTgxODk3LDIwOTY4MjEwMzQsLTIxMj
+eyJoaXN0b3J5IjpbMjg1OTM0Mjg3LDIwOTY4MjEwMzQsLTIxMj
 g5MTIwOTIsLTI2MDQ0OTE2NywtMjc3NjA5ODExLDExMzUyMDA5
 NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEzLC0xOT
 M0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4
