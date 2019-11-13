@@ -415,6 +415,8 @@ return 0;
 }
 ```
 **OUTPUT**:
+Enter the factorial of:5
+5 X 4 X 3 X 2 X 1 X = 120
  ## 19:To show stars pattern 
  ```
  //to show star pattern for n numbers
@@ -518,7 +520,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMjQxNzU3LC04Nzg1ODM1NDMsLTEzMT
-gwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMzA5MTQ1
-MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMz
+E4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0
+NTI4MSwtNDgzNDE2ODEzXX0=
 -->
