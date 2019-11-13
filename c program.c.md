@@ -46,7 +46,7 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 ```
 **OUTPUT:**
 ```
-er your information:
+Enter your information:
 Name = Jony
 
 Roll no=100012
@@ -697,11 +697,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4NDkzNzUyLDE2MTgwMjUyODAsNDg3ND
-A0MzAxLDIwOTY4MjEwMzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2
-NywtMjc3NjA5ODExLDExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOT
-MzOTkyMzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1
-ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsOD
-YwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5
-NTQ4NV19
+eyJoaXN0b3J5IjpbMTczMjI2NzE0NSwxNjE4MDI1MjgwLDQ4Nz
+QwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMDkyLC0yNjA0NDkx
+NjcsLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02NDMwODgyNTYsMz
+kzMzk5MjM4LDc3NDk0NzcxMywtMTkzNDk3MDA2NiwtMTUzMzIx
+NTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEwOCwxMzExMDQzOTM3LD
+g2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nzg1ODM1NDMsLTEzMTgw
+OTU0ODVdfQ==
 -->
