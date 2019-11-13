@@ -480,7 +480,22 @@ for(c=0;c<m;c++)
  }
  ```
  **OUTPUT**:
+ Enter the number of rows and column of first matrix:
+2 2
+Enter elements of first matrix
+3 4
+5 6
+Enter the number of rows and columns of second matrix:
+2 2
+Enter the elements of second matrix:
+1 2
+3 4
+product of the matrix:
+15      22
+23      34
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLT
-E5MDAzOTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbODA2OTU0MDk5LC0xMzE4MDk1NDg1LC0yMD
+I1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2
+ODEzXX0=
 -->
