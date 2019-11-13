@@ -403,6 +403,7 @@ printf("= %d\n",result);
 return 0;
 }
 ```
+**OUTPUT**:
  ## 19:To show stars pattern 
  ```
  //to show star pattern for n numbers
@@ -424,6 +425,7 @@ int main()
  return 0;
 }
 ```
+**OUTPUT**;
 ## 20:Matrix multipication
  ```
 #include<stdio.h>
@@ -477,7 +479,8 @@ for(c=0;c<m;c++)
  return 0;
  }
  ```
+ **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTczMjU5NywtMjAyNTg3OTIwMiwtMT
-kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
+eyJoaXN0b3J5IjpbLTExMzY3NDAwNzIsLTIwMjU4NzkyMDIsLT
+E5MDAzOTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
 -->
