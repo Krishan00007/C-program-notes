@@ -46,7 +46,20 @@ printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is
 ```
 **OUTPUT:**
 ```
+er your information:
+Name = Jony
 
+Roll no=100012
+
+Age = 25
+
+Phone no.= 9922115566
+
+The name is Jony
+Your roll no is 100012
+My phone number is 9922115566
+ My age is 25
+ ```
 
 ## 3:To find sum of two numbers
 ```
@@ -684,11 +697,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5Nj
-gyMTAzNCwtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4
-MTEsMTEzNTIwMDk2MSwtNjQzMDg4MjU2LDM5MzM5OTIzOCw3Nz
-Q5NDc3MTMsLTE5MzQ5NzAwNjYsLTE1MzMyMTU4NTYsNDA3NDU3
-NDIyLC0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4NjAxMjY4MDksLT
-E0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1
-ODc5MjAyXX0=
+eyJoaXN0b3J5IjpbODM4NDkzNzUyLDE2MTgwMjUyODAsNDg3ND
+A0MzAxLDIwOTY4MjEwMzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2
+NywtMjc3NjA5ODExLDExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOT
+MzOTkyMzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1
+ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsOD
+YwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5
+NTQ4NV19
 -->
