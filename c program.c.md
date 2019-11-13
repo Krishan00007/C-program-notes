@@ -362,7 +362,7 @@ enter 0 to see a calculator or 1 to see face
 |     0     | * |
 |___________|___|
 ```
-IF YOU 
+IF YOU ENTER 1 THEN OUTPUT
 ```
 enter 0 to see a calculator or 1 to see face
 1
@@ -554,7 +554,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDAxOTg0OSwtMjMyMDc4MTA4LDEzMT
+eyJoaXN0b3J5IjpbMjAzMzI2MzQyMCwtMjMyMDc4MTA4LDEzMT
 EwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0
 MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OS
 wzMDkxNDUyODEsLTQ4MzQxNjgxM119
