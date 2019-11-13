@@ -447,7 +447,7 @@ Enter the value upto pattern is shown:8
 * * * * * * 
 * * * * * * * 
 * * * * * * * * 
-1921057@
+```
 
 ## 20:Matrix multipication
  ```
@@ -518,7 +518,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU4MDUyLC04Nzg1ODM1NDMsLTEzMT
+eyJoaXN0b3J5IjpbOTkwMjQxNzU3LC04Nzg1ODM1NDMsLTEzMT
 gwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAzOTQ1NTksMzA5MTQ1
 MjgxLC00ODM0MTY4MTNdfQ==
 -->
