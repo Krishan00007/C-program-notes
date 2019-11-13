@@ -482,7 +482,7 @@ for(c=0;c<m;c++)
  **OUTPUT**:
  Enter the number of rows and column of first matrix:
 2 2
-Enter elements of first matrix
+Enter elements of first matrix:
 3 4
 5 6
 Enter the number of rows and columns of second matrix:
@@ -495,7 +495,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTU0MDk5LC0xMzE4MDk1NDg1LC0yMD
-I1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2
-ODEzXX0=
+eyJoaXN0b3J5IjpbMjAyNjgyMzg0NywtMTMxODA5NTQ4NSwtMj
+AyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQx
+NjgxM119
 -->
