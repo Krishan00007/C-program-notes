@@ -241,6 +241,22 @@ int main()
  }
 ```
 **OUTPUT**:
+table of:5
+
+ enter the starting value of range:20
+
+ enter the last value of range:30
+5 x 20 = 100
+5 x 21 = 105
+5 x 22 = 110
+5 x 23 = 115
+5 x 24 = 120
+5 x 25 = 125
+5 x 26 = 130
+5 x 27 = 135
+5 x 28 = 140
+5 x 29 = 145
+5 x 30 = 150
 ## 13:To show even table
 ```
 //To show only even table
@@ -581,9 +597,9 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ5NzAwNjYsLTE1MzMyMTU4NTYsND
-A3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4NjAxMjY4
-MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1LC
-0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtNDgz
-NDE2ODEzXX0=
+eyJoaXN0b3J5IjpbLTE3Njc0MDIzMzYsLTE5MzQ5NzAwNjYsLT
+E1MzMyMTU4NTYsNDA3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMTA0
+MzkzNyw4NjAxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC
+0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMw
+OTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
