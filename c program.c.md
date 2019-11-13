@@ -241,6 +241,7 @@ int main()
  }
 ```
 **OUTPUT**:
+```
 table of:5
 
  enter the starting value of range:20
@@ -257,6 +258,7 @@ table of:5
 5 x 28 = 140
 5 x 29 = 145
 5 x 30 = 150
+```
 ## 13:To show even table
 ```
 //To show only even table
@@ -277,6 +279,7 @@ printf("enter even number\n");
 return 0;}
 ```
 **OUTPUT**:
+```
 tabel of:16
 16 X 0=0
 16 X 1=16
@@ -299,7 +302,7 @@ tabel of:16
 16 X 18=288
 16 X 19=304
 16 X 20=320
-
+```
 ## 14: To show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
@@ -331,7 +334,8 @@ return 0;
 ```
 
 **OUTPUT**:
-nter first  number:20
+```
+enter first  number:20
 enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
@@ -597,9 +601,9 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNT
-MzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5
-MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMT
-MxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkx
-NDUyODEsLTQ4MzQxNjgxM119
+eyJoaXN0b3J5IjpbNTAxODc0ODE4LDc3NDk0NzcxMywtMTkzND
+k3MDA2NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEw
+OCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nz
+g1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAz
+OTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
 -->
