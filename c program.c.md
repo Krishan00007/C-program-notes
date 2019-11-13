@@ -71,7 +71,7 @@ int main()
      int a,b,c,d,e,sum,avg;
                                                                
    printf("Enter five numbers:");
-   scanf("%d %d %d %d %d\n",&a,&b,&c,&d,&e);
+   scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
     sum = a+b+c+d+e;
    printf("The sum is:%d\n",sum);
    avg = sum/5;
@@ -80,7 +80,10 @@ int main()
 ``` 
 **OUTPUT**:
 ```
-
+Enter five numbers:1 2 3 4 5 
+The sum is:15
+The average is:3
+```
   ## 5:To find number is even or odd
   ```
        #include<stdio.h>
@@ -673,11 +676,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjM0NzY0NSwyMDk2ODIxMDM0LC0yMT
-I4OTEyMDkyLC0yNjA0NDkxNjcsLTI3NzYwOTgxMSwxMTM1MjAw
-OTYxLC02NDMwODgyNTYsMzkzMzk5MjM4LDc3NDk0NzcxMywtMT
-kzNDk3MDA2NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3
-ODEwOCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC
-04Nzg1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5
-MDAzOTQ1NTldfQ==
+eyJoaXN0b3J5IjpbNDg3NDA0MzAxLDIwOTY4MjEwMzQsLTIxMj
+g5MTIwOTIsLTI2MDQ0OTE2NywtMjc3NjA5ODExLDExMzUyMDA5
+NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEzLC0xOT
+M0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4
+MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLT
+g3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkw
+MDM5NDU1OV19
 -->
