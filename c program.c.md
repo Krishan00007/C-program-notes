@@ -151,7 +151,7 @@ character:1
 double:8
 short:2
 long:8
-```5
+```
 ## 7:To show area,perimeter,volume of square
 ```
    
@@ -697,7 +697,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjI2NzE0NSwxNjE4MDI1MjgwLDQ4Nz
+eyJoaXN0b3J5IjpbMTQwMTM4NDY2NCwxNjE4MDI1MjgwLDQ4Nz
 QwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMDkyLC0yNjA0NDkx
 NjcsLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02NDMwODgyNTYsMz
 kzMzk5MjM4LDc3NDk0NzcxMywtMTkzNDk3MDA2NiwtMTUzMzIx
