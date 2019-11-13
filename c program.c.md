@@ -383,7 +383,15 @@ int main()
  return 0;
  }
  ```
- **OUTPUT**:
+ **OUTPUT**:Enter the no. to show pattern:8
+* * * * * * * * 
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
  
  ## 18:To show factorial result
  ```
@@ -495,7 +503,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMj
-AyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQx
-NjgxM119
+eyJoaXN0b3J5IjpbMTIxNDA0MzcwNywtODc4NTgzNTQzLC0xMz
+E4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0
+NTI4MSwtNDgzNDE2ODEzXX0=
 -->
