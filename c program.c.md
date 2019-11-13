@@ -94,7 +94,7 @@ int main()
    printf("The number is odd\n");
  }
 ```
-
+**OUTPUT**:
 
 ## 6:To show the size of int,float,char,double,long,short
 ```
@@ -110,6 +110,7 @@ int main()
  printf("long:%d\n",sizeof(long));
  }
 ```
+**OUTPUT**:
 
 ## 7:To show area,perimeter,volume of square
 ```
@@ -133,6 +134,7 @@ void square()
  printf("\nVolume of square:%d\n",side*side*side);
 }
 ```
+**OUTPUT**:
 
 ## 7:To show puts value upto n number using loop
 ```
@@ -148,6 +150,7 @@ puts("Be the best,fuck the rest ");
 return 0;
 }
 ```
+**OUTPUT**:
 
 ## 8:To show area,diameter,circumference of circle 
 ```
@@ -164,6 +167,7 @@ float  const pi=3.14;
 return 0;
  } 
 ```
+**OUTPUT**:
 
 ## 9:To find area and volume of rectangle
 ```
@@ -465,6 +469,6 @@ for(c=0;c<m;c++)
  }
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzkzOTczOCwtMjAyNTg3OTIwMiwtMT
+eyJoaXN0b3J5IjpbMTg1NjQ4NzUyNSwtMjAyNTg3OTIwMiwtMT
 kwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM119
 -->
