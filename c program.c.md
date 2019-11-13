@@ -436,7 +436,7 @@ int first[10][10], second[10][10], multiply[10][10];
 // for matrix 1
 printf("Enter the number of rows and column of first matrix:\n");
 scanf("%d %d",&m,&n);
-printf("Enter elements of first matrix\n");
+printf("Enter elements of first matrix:\n");
 
 for(c=0;c<m;c++)
  for(d=0;d<n;d++)
@@ -495,7 +495,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjgyMzg0NywtMTMxODA5NTQ4NSwtMj
+eyJoaXN0b3J5IjpbLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMj
 AyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQx
 NjgxM119
 -->
