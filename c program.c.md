@@ -361,6 +361,20 @@ enter 0 to see a calculator or 1 to see face
 |___|___|___|___|
 |     0     | * |
 |___________|___|
+if
+nter 0 to see a calculator or 1 to see face
+1
+___________________
+|   XXXXXXXXXXX   |
+|   ( ^     ^ )   |
+|   ( 0     0 )   |
+|    \   |   /    |
+|     \     /     |
+|      \ = /      |
+|       \_/       |
+|        |        |
+|________|________|
+1921057@com
 
 
 ## 16:To convert fahrehnite to celcius and kelvin
@@ -540,8 +554,8 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTA0MzkzNyw4NjAxMjY4MDksLTE0MD
-M0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1ODc5
-MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2ODEzXX
-0=
+eyJoaXN0b3J5IjpbLTE1OTE3MTA4NjMsMTMxMTA0MzkzNyw4Nj
+AxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1
+NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MS
+wtNDgzNDE2ODEzXX0=
 -->
