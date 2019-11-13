@@ -135,7 +135,13 @@ void square()
 }
 ```
 **OUTPUT**:
+```
+Enter the side of square:4
 
+Perimeter of square:16
+Area of square:16
+Volume of square:64
+```
 ## 7:To show puts value upto n number using loop
 ```
 // to show punishment using loop
@@ -651,11 +657,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMj
-c3NjA5ODExLDExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTky
-MzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LD
-QwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2
-ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NS
-wtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4
-MzQxNjgxM119
+eyJoaXN0b3J5IjpbLTE2MTIxODIxMDYsLTIxMjg5MTIwOTIsLT
+I2MDQ0OTE2NywtMjc3NjA5ODExLDExMzUyMDA5NjEsLTY0MzA4
+ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEzLC0xOTM0OTcwMDY2LC
+0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4MTA4LDEzMTEw
+NDM5MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLTg3ODU4MzU0My
+wtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkwMDM5NDU1OSwz
+MDkxNDUyODFdfQ==
 -->
