@@ -347,6 +347,7 @@ puts("|________|________|");
 }
 ```
 **OUTPUT**:
+
 ## 16:To convert fahrehnite to celcius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
@@ -359,7 +360,7 @@ puts("|________|________|");
 b=((a-32.00)*5.00)/9.00;
  printf("celsius value is:%.2f\n",b);
 
- printf("kelvin value is:%.2f\n",c=b+273.00);
+ printf("kelvin value is:%.2f\n",c=b+273.15);
   return 0;} 
 ```
 **OUTPUT**:
@@ -524,7 +525,7 @@ product of the matrix:
 23      34
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU1NDI4MzMsLTE0MDM0ODM0MiwtOD
+eyJoaXN0b3J5IjpbLTE3MDk3Mjg0ODcsLTE0MDM0ODM0MiwtOD
 c4NTgzNTQzLC0xMzE4MDk1NDg1LC0yMDI1ODc5MjAyLC0xOTAw
 Mzk0NTU5LDMwOTE0NTI4MSwtNDgzNDE2ODEzXX0=
 -->
