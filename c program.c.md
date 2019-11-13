@@ -222,6 +222,10 @@ return 0;
 }
 ```
 **OUTPUT**:
+```
+Enter temp in fahrehnite :450
+The celcius value is:232.222229
+```
 ## 12: To show the table range 
 ```
 //To show a range of table upto user input
@@ -607,9 +611,10 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMzk5MjM4LDc3NDk0NzcxMywtMTkzND
-k3MDA2NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3ODEw
-OCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC04Nz
-g1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5MDAz
-OTQ1NTksMzA5MTQ1MjgxLC00ODM0MTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OT
+Q3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQy
+MiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xND
+AzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3
+OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM1
+19
 -->
