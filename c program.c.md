@@ -88,7 +88,7 @@ int main()
  {                                
     int a;   
    printf("Enter a number:");
-   scanf("%d\n",&a);
+   scanf("%d",&a);
  if(a%2==0)
   printf("The  number is even\n");
  else
@@ -673,11 +673,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1OTM0Mjg3LDIwOTY4MjEwMzQsLTIxMj
-g5MTIwOTIsLTI2MDQ0OTE2NywtMjc3NjA5ODExLDExMzUyMDA5
-NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3NzEzLC0xOT
-M0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMiwtMjMyMDc4
-MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xNDAzNDgzNDIsLT
-g3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3OTIwMiwtMTkw
-MDM5NDU1OV19
+eyJoaXN0b3J5IjpbMTMyNjM0NzY0NSwyMDk2ODIxMDM0LC0yMT
+I4OTEyMDkyLC0yNjA0NDkxNjcsLTI3NzYwOTgxMSwxMTM1MjAw
+OTYxLC02NDMwODgyNTYsMzkzMzk5MjM4LDc3NDk0NzcxMywtMT
+kzNDk3MDA2NiwtMTUzMzIxNTg1Niw0MDc0NTc0MjIsLTIzMjA3
+ODEwOCwxMzExMDQzOTM3LDg2MDEyNjgwOSwtMTQwMzQ4MzQyLC
+04Nzg1ODM1NDMsLTEzMTgwOTU0ODUsLTIwMjU4NzkyMDIsLTE5
+MDAzOTQ1NTldfQ==
 -->
