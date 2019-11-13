@@ -189,6 +189,7 @@ int main()
  ```
  **OUTPUT**:
  
+ 
  ## 10:To represent a table of user input 
  
  ```
@@ -207,6 +208,19 @@ return 0;
 }
 ```
 **OUTPUT**:
+```Table of:15
+15 x 0 = 0
+15 x 1 = 15
+15 x 2 = 30
+15 x 3 = 45
+15 x 4 = 60
+15 x 5 = 75
+15 x 6 = 90
+15 x 7 = 105
+15 x 8 = 120
+15 x 9 = 135
+15 x 10 = 150
+```
 ## 11:To convert Fahrehnite to Celcius
 ```
 //to convert fahrehnite to celcius
@@ -611,10 +625,10 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OT
-Q3NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQy
-MiwtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xND
-AzNDgzNDIsLTg3ODU4MzU0MywtMTMxODA5NTQ4NSwtMjAyNTg3
-OTIwMiwtMTkwMDM5NDU1OSwzMDkxNDUyODEsLTQ4MzQxNjgxM1
-19
+eyJoaXN0b3J5IjpbMTEzNTIwMDk2MSwtNjQzMDg4MjU2LDM5Mz
+M5OTIzOCw3NzQ5NDc3MTMsLTE5MzQ5NzAwNjYsLTE1MzMyMTU4
+NTYsNDA3NDU3NDIyLC0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4Nj
+AxMjY4MDksLTE0MDM0ODM0MiwtODc4NTgzNTQzLC0xMzE4MDk1
+NDg1LC0yMDI1ODc5MjAyLC0xOTAwMzk0NTU5LDMwOTE0NTI4MS
+wtNDgzNDE2ODEzXX0=
 -->
