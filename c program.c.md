@@ -2,8 +2,8 @@
 ***Submitted By :***
 ***Name : Krishan***
 ***Roll No. : 1921057***
-***Branch : Information Tecnology(I>***
-
+***Branch : Information Tecnology(I.T)***
+***SE***
 
 
 # **My C programes assignment**
@@ -705,11 +705,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODA1Nzc1OSwtNzg4MTEwNTMzLDE0MD
-EzODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5NjgyMTAz
-NCwtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4MTEsMT
-EzNTIwMDk2MSwtNjQzMDg4MjU2LDM5MzM5OTIzOCw3NzQ5NDc3
-MTMsLTE5MzQ5NzAwNjYsLTE1MzMyMTU4NTYsNDA3NDU3NDIyLC
-0yMzIwNzgxMDgsMTMxMTA0MzkzNyw4NjAxMjY4MDksLTE0MDM0
-ODM0Ml19
+eyJoaXN0b3J5IjpbLTE5MzYyMjE1MjgsLTc4ODExMDUzMywxND
+AxMzg0NjY0LDE2MTgwMjUyODAsNDg3NDA0MzAxLDIwOTY4MjEw
+MzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMjc3NjA5ODExLD
+ExMzUyMDA5NjEsLTY0MzA4ODI1NiwzOTMzOTkyMzgsNzc0OTQ3
+NzEzLC0xOTM0OTcwMDY2LC0xNTMzMjE1ODU2LDQwNzQ1NzQyMi
+wtMjMyMDc4MTA4LDEzMTEwNDM5MzcsODYwMTI2ODA5LC0xNDAz
+NDgzNDJdfQ==
 -->
