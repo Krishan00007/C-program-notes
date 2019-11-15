@@ -1,8 +1,8 @@
 # *PPS Assignment *
 ***Submitted By :***
 ***Name : Krishan***
-***Roll no.***
-
+***Roll No. : 1921057***
+***Branch : Information Tecnology(I>***
 
 
 
@@ -705,7 +705,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjcyNDg0MSwtNzg4MTEwNTMzLDE0MD
+eyJoaXN0b3J5IjpbMjAyODA1Nzc1OSwtNzg4MTEwNTMzLDE0MD
 EzODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5NjgyMTAz
 NCwtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4MTEsMT
 EzNTIwMDk2MSwtNjQzMDg4MjU2LDM5MzM5OTIzOCw3NzQ5NDc3
