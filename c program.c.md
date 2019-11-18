@@ -8,7 +8,7 @@
 ##### ***Roll No. : 1921057***
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
-##### ***Subject code:
+##### ***Subject code: ESC18104/18105***
 
 
 # My C programes 
@@ -710,7 +710,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc2NTA0ODksLTIwMjQwMzA3NDMsLT
+eyJoaXN0b3J5IjpbLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLT
 E5NDEyOTE4NTAsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3
 Njk3NTIsMTY1NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMTA1Mz
 MsMTQwMTM4NDY2NCwxNjE4MDI1MjgwLDQ4NzQwNDMwMSwyMDk2
