@@ -313,10 +313,10 @@ return 0;
 #include<stdio.h>
 int main(){
 float f,c; 
-printf("Enter temp in fahrehnite :");
+printf("Enter temp in fahrenhite :");
 scanf("%f",&f);
 c=((f-32)*5)/9;
-printf("The celcius value is:%f\n",c);
+printf("The celsius value is:%f\n",c);
 
 return 0;
 }
@@ -711,7 +711,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDExMDkxMTEsNDg4Nzc0NTI4LDE5MD
+eyJoaXN0b3J5IjpbLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MD
 A3OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMw
 NzQzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOS
 wxOTQ2NzY5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4
