@@ -246,7 +246,7 @@ diameter of circle is:12.000000
 circumference of circle:37.680000
 Area of circle:113.040001
 ```
-## 9:Write a source code to find area and volume of rectangle
+## 10:Write a source code to find area and volume of rectangle
 ```
 //find area and volume of rectangle
 #include<stdio.h>
@@ -276,7 +276,7 @@ The area of rectangle is:12
 The volume is :48
 ```
  
- ## 10:Write a source code to represent a table of user input 
+ ## 11:Write a source code to represent a table of user input 
  
  ```
   // To represent a table of user input  number
@@ -711,11 +711,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4Nzc0NTI4LDE5MDA3OTc4ODYsNzA0ND
-Y3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0xOTQxMjkx
-ODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2NzY5NzUyLD
-E2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4MTEwNTMzLDE0MDEz
-ODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5NjgyMTAzNC
-wtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4MTEsMTEz
-NTIwMDk2MV19
+eyJoaXN0b3J5IjpbMTMxMDE0NTc3LDQ4ODc3NDUyOCwxOTAwNz
+k3ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0
+MywtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMT
+k0Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODEx
+MDUzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAsNDg3NDA0MzAxLD
+IwOTY4MjEwMzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMjc3
+NjA5ODExXX0=
 -->
