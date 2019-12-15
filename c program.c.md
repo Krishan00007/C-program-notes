@@ -391,24 +391,32 @@ enter the starting value of table range:2
 4 x 9 = 36
 4 x 10 = 40
 ```
-## 14:Write a source code to show even table
-```
-//To show only even table
+## 14:Write a source code to show even table range
+``` 
+// To show only even table range
 #include<stdio.h>
-int main(){
-int m;
-printf("tabel of:");
+int main()
+{
+int m,n,a;
+printf("Enter starting value of range:");
 scanf("%d",&m);
-if(m%2==0)
-{
-for(int i=0;i<=20;i++)
-{
-printf("%d X %d=%d\n",m,i,m*i);
-}}
-else
-printf("enter even number\n");
+printf("\nEnter ending value of range:");
+scanf("%d",&n);
 
-return 0;}
+for(int i=m;i<=n;i++)
+{
+printf("\n");
+ for(a=0;a<=10;a++)
+{
+if(i%2==0)
+printf("%d X %d = %d\n",i,a,i*a);
+
+else
+ printf("  ");
+}
+}
+return 0;
+}
 ```
 **OUTPUT**:
 ```
@@ -420,20 +428,7 @@ tabel of:16
 16 X 4=64
 16 X 5=80
 16 X 6=96
-16 X 7=112
-16 X 8=128
-16 X 9=144
-16 X 10=160
-16 X 11=176
-16 X 12=192
-16 X 13=208
-16 X 14=224
-16 X 15=240
-16 X 16=256
-16 X 17=272
-16 X 18=288
-16 X 19=304
-16 X 20=320
+16 X 7=11
 ```
 #### ***OR***
 ```
@@ -907,11 +902,11 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODE1MTkzMywtNjg1NDEyMDYwLC04NT
-E5OTA0MTAsNDQ1NjEzMjg5LC0xNDc5NjU1NDk2LC04NTI4MTY4
-ODYsMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOTE1OTExNjI3LC
-0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2
-NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MT
-g1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0Njc2OTc1Miwx
-NjU2OTAxNTI4XX0=
+eyJoaXN0b3J5IjpbLTQwNTUxMDEyMSwxMTk4MTUxOTMzLC02OD
+U0MTIwNjAsLTg1MTk5MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0
+OTYsLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC
+05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3
+OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNz
+QzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwx
+OTQ2NzY5NzUyXX0=
 -->
