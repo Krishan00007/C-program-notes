@@ -1,7 +1,7 @@
 # *PPS Assignment*
 
 
-![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwmsize)
+![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm)
  
 ## ***Submitted By :***
 ##### ***Name : Krishan***           
@@ -927,11 +927,11 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTEyMTg5NywtMTI1MDM5NzczOCwtMT
-I1MDM5NzczOCwxMTk4MTUxOTMzLC02ODU0MTIwNjAsLTg1MTk5
-MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0OTYsLTg1MjgxNjg4Ni
-wxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC05MTU5MTE2MjcsLTEy
-NDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4ODYsNzA0NDY3Nj
-MzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0xOTQxMjkxODUw
-LDE5NDY3Njk3NTJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODgzODMyNzQsLTEyNTAzOTc3MzgsLT
+EyNTAzOTc3MzgsMTE5ODE1MTkzMywtNjg1NDEyMDYwLC04NTE5
+OTA0MTAsNDQ1NjEzMjg5LC0xNDc5NjU1NDk2LC04NTI4MTY4OD
+YsMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOTE1OTExNjI3LC0x
+MjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2Nz
+YzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MTg1
+MCwxOTQ2NzY5NzUyXX0=
 -->
