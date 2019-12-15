@@ -13,19 +13,19 @@
 
 # My C programes 
 
-## 1:write a source code to print hello world
+## 1:write a source code to print hello budding engineers
 
 ```
 //To print  hello world
 #include<stdio.h>
 int main()
 {                     
- printf("\nHello world\n");
+ printf("\nHello Budding Engineers\n");
 }
 ```
 **OUTPUT:**
 ``` 
- Hello world
+ Hello Budding Engineers
 ```
 ## 2:TO write a source code to fill your information
 
@@ -53,7 +53,7 @@ printf("\nAge = ");
  printf("\nPhone no.= ");
  scanf("%ld",&ph);
 
-printf("\nThe name is %s\nYour roll no is %d\nMy phone number is %ld\n My age is %d\n",a,roll,ph,age);
+printf("\nThe name is %s\nYour roll no is %d\nYour phone number is %ld\n Your age is %d\n",a,roll,ph,age);
 
 }
 ```
@@ -70,8 +70,8 @@ Phone no.= 9922115566
 
 The name is Jony
 Your roll no is 100012
-My phone number is 9922115566
- My age is 25
+Your phone number is 9922115566
+ Your age is 25
  ```
 
 ## 3:Write a source code to find sum of two numbers
