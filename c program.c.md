@@ -5,7 +5,8 @@
 
 ## ***Submitted By :***
 ##### ***Name : Krishan***           
-##### ***Roll No. : 1921057***
+##### ***Class Roll No. : 1921057***
+####
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
 ##### ***Subject code: ESC18104/18105***
@@ -710,11 +711,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMD
-I0MDMwNzQzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIz
-OTgyOSwxOTQ2NzY5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NS
-wtNzg4MTEwNTMzLDE0MDEzODQ2NjQsMTYxODAyNTI4MCw0ODc0
-MDQzMDEsMjA5NjgyMTAzNCwtMjEyODkxMjA5MiwtMjYwNDQ5MT
-Y3LC0yNzc2MDk4MTEsMTEzNTIwMDk2MSwtNjQzMDg4MjU2LDM5
-MzM5OTIzOF19
+eyJoaXN0b3J5IjpbMTA0OTg5NzIxMSw3MDQ0Njc2MzMsLTEyMz
+IyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NTAsMTk0Njc2
+OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1NjkwMTUyOC
+wtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4NDY2NCwxNjE4
+MDI1MjgwLDQ4NzQwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMD
+kyLC0yNjA0NDkxNjcsLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02
+NDMwODgyNTZdfQ==
 -->
