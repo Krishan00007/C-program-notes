@@ -902,9 +902,11 @@ no. is prime
 ```
 #### **OR**
 ```
-
+enter number:15
+no. is not prime
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ1Nzg4MzMsLTY4NTQxMjA2MCwtOD
+eyJoaXN0b3J5IjpbLTExODk2OTQ4MzMsLTY4NTQxMjA2MCwtOD
 UxOTkwNDEwLDQ0NTYxMzI4OSwtMTQ3OTY1NTQ5NiwtODUyODE2
 ODg2LDE4MTg4NDY3NTEsLTEwODMwMzE0OTcsLTkxNTkxMTYyNy
 wtMTI0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5Nzg4Niw3MDQ0
