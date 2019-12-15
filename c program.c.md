@@ -420,6 +420,9 @@ return 0;
 ```
 **OUTPUT**:
 ```
+Enter starting value of range:10
+
+Enter ending value of range:15
 10 X 1 = 10                                                                  
 10 X 2 = 20                                                                  
 10 X 3 = 30
@@ -457,10 +460,6 @@ return 0;
 14 X 9 = 126
 14 X 10 = 140
 ```
-#### ***OR***
-```
-tabel of:7
-en
 ## 15: Write a source code to show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
@@ -927,7 +926,7 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzUwNDg2NiwxMTk4MTUxOTMzLC02OD
+eyJoaXN0b3J5IjpbMTU3MjA4NTkyOCwxMTk4MTUxOTMzLC02OD
 U0MTIwNjAsLTg1MTk5MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0
 OTYsLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC
 05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3
