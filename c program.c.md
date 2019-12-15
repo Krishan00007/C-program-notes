@@ -333,14 +333,19 @@ The celsius value is:232.222229
 int main()
 {
  int a,b,n;
- printf("table of:");
- scanf("%d",&a);
- printf("\n enter the starting value of range:");
+ printf("\n enter the starting value of table range:");
  scanf("%d",&b);
- printf("\n enter the last value of range:");
+ printf("\n enter the last value of table range:");
  scanf("%d",&n);
  for(b;b<=n;b++)
- printf("%d x %d = %d\n",a,b,a*b);
+{
+ printf("\n");
+ for(a=0;a<=10;a++)
+{
+ printf("%d x %d = %d\n",b,a,b*a);
+
+}
+}
  return 0;
  }
 ```
@@ -711,11 +716,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTkxMTYyNywtMTI0MDU2OTI3NSw0OD
-g3NzQ1MjgsMTkwMDc5Nzg4Niw3MDQ0Njc2MzMsLTEyMzIyNzA1
-MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NTAsMTk0Njc2OTc1Mi
-wtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1NjkwMTUyOCwtNzI4
-Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4NDY2NCwxNjE4MDI1Mj
-gwLDQ4NzQwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMDkyLC0y
-NjA0NDkxNjddfQ==
+eyJoaXN0b3J5IjpbMTE3NjAwNjI4MywtOTE1OTExNjI3LC0xMj
+QwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2NzYz
+MywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MTg1MC
+wxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0Njc2OTc1MiwxNjU2
+OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODExMDUzMywxNDAxMzg0Nj
+Y0LDE2MTgwMjUyODAsNDg3NDA0MzAxLDIwOTY4MjEwMzQsLTIx
+Mjg5MTIwOTJdfQ==
 -->
