@@ -307,12 +307,12 @@ return 0;
 15 x 9 = 135
 15 x 10 = 150
 ```
-## 11:Write a source code to convert Fahrehnite to Celcius
+## 11:Write a source code to convert Fahrenheit to Celsius
 ```
-//to convert fahrehnite to celcius
+//to convert fahrenhite to celcius
 #include<stdio.h>
 int main(){
-float f,c;
+float f,c; 
 printf("Enter temp in fahrehnite :");
 scanf("%f",&f);
 c=((f-32)*5)/9;
@@ -711,11 +711,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDE0NTc3LDQ4ODc3NDUyOCwxOTAwNz
-k3ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0
-MywtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMT
-k0Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODEx
-MDUzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAsNDg3NDA0MzAxLD
-IwOTY4MjEwMzQsLTIxMjg5MTIwOTIsLTI2MDQ0OTE2NywtMjc3
-NjA5ODExXX0=
+eyJoaXN0b3J5IjpbLTE5NDExMDkxMTEsNDg4Nzc0NTI4LDE5MD
+A3OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMw
+NzQzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOS
+wxOTQ2NzY5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4
+MTEwNTMzLDE0MDEzODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMD
+EsMjA5NjgyMTAzNCwtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0y
+Nzc2MDk4MTFdfQ==
 -->
