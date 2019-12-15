@@ -14,7 +14,7 @@
 
 # My C programes 
 
-## 1:write a source code to print hello budding engineers
+## 1:Write a source code to print hello budding engineers
 
 ```
 //To print  hello world
@@ -28,7 +28,7 @@ int main()
 ``` 
  Hello Budding Engineers
 ```
-## 2:TO write a source code to fill your information 
+## 2: Write a source code to fill your information and print it 
 
 ```
   // To fill your information
@@ -711,7 +711,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjU5ODE3NCw3MDQ0Njc2MzMsLTEyMz
+eyJoaXN0b3J5IjpbMTkwMDc5Nzg4Niw3MDQ0Njc2MzMsLTEyMz
 IyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NTAsMTk0Njc2
 OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1NjkwMTUyOC
 wtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4NDY2NCwxNjE4
