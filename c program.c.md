@@ -307,7 +307,7 @@ return 0;
 15 x 9 = 135
 15 x 10 = 150
 ```
-## 11:Write a source code to convert Fahrenheit to Celsius
+## 12:Write a source code to convert Fahrenheit to Celsius
 ```
 //to convert fahrenhite to celcius
 #include<stdio.h>
@@ -326,7 +326,7 @@ return 0;
 Enter temp in fahrehnite :450
 The celsius value is:232.222229
 ```
-## 12: Write a source code to show the table range 
+## 13: Write a source code to show the table range 
 ```
 //To show a range of table upto user input
 #include<stdio.h>
@@ -391,7 +391,7 @@ enter the starting value of table range:2
 4 x 9 = 36
 4 x 10 = 40
 ```
-## 13:Write a source code to show even table
+## 14:Write a source code to show even table
 ```
 //To show only even table
 #include<stdio.h>
@@ -441,7 +441,7 @@ tabel of:7
 enter even number
 
 ```
-## 14: Write a source code to show result of operands
+## 15: Write a source code to show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
 #include<stdio.h>
@@ -745,7 +745,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcyNDMxNDEsLTkxNTkxMTYyNywtMT
+eyJoaXN0b3J5IjpbLTEwODMwMzE0OTcsLTkxNTkxMTYyNywtMT
 I0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5Nzg4Niw3MDQ0Njc2
 MzMsLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NT
 AsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1
