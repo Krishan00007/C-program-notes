@@ -478,24 +478,28 @@ enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
 ```
+#### ***OR***
 ```
 enter first  number:20
 enter operator[+ - % / *]:+
 enter second number:10
 The result is:30.00
 ```
+#### ***OR***
 ```
 enter first  number:20
 enter operator[+ - % / *]:-
 enter second number:10
 The result is:10.00
 ```
+#### ***OR***
 ```
 enter first  number:20
 enter operator[+ - % / *]:/
 enter second number:10
 The result is:2.00
 ```
+#### ***OR***
 ```
 enter first  number:20
 enter operator[+ - % / *]:%
@@ -769,7 +773,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODI3NDQxMSwtMTA4MzAzMTQ5NywtOT
+eyJoaXN0b3J5IjpbLTM1MzE0Mzg4NywtMTA4MzAzMTQ5NywtOT
 E1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3
 ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0My
 wtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0
