@@ -420,14 +420,47 @@ return 0;
 ```
 **OUTPUT**:
 ```
+10 X 1 = 10                                                                  
+10 X 2 = 20                                                                  
+10 X 3 = 30
+10 X 4 = 40
+10 X 5 = 50
+10 X 6 = 60
+10 X 7 = 70
+10 X 8 = 80
+10 X 9 = 90
+10 X 10 = 100
 
+                      
+12 X 0 = 0
+12 X 1 = 12
+12 X 2 = 24
+12 X 3 = 36
+12 X 4 = 48
+12 X 5 = 60
+12 X 6 = 72
+12 X 7 = 84
+12 X 8 = 96
+12 X 9 = 108
+12 X 10 = 120
+
+                      
+14 X 0 = 0
+14 X 1 = 14
+14 X 2 = 28
+14 X 3 = 42
+14 X 4 = 56
+14 X 5 = 70
+14 X 6 = 84
+14 X 7 = 98
+14 X 8 = 112
+14 X 9 = 126
+14 X 10 = 140
 ```
 #### ***OR***
 ```
 tabel of:7
-enter even number
-
-```
+en
 ## 15: Write a source code to show result of operands
 ```
 //To show results using operands(+,-,*,%,/)
@@ -894,7 +927,7 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTE5ODM0OCwxMTk4MTUxOTMzLC02OD
+eyJoaXN0b3J5IjpbLTIyMzUwNDg2NiwxMTk4MTUxOTMzLC02OD
 U0MTIwNjAsLTg1MTk5MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0
 OTYsLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC
 05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3
