@@ -772,13 +772,53 @@ product of the matrix:
 15      22
 23      34
 ```
+## 22: Write a code to show matrix addition
+```
+ int first[100][100],second[100][100],sum[100][100];
+// first matrix
+printf("Enter the rows and colums of matrix:\n");
+scanf("%d %d",&m,&n);
+printf("Enter the elements of first matrix:\n");
+ 
+for(c=0;c<m;c++)
+ for(d=0;d<n;d++)
+  scanf("%d",&first[c][d]);
+// second matrix
+printf("Enter the rows and colums of second matrix:\n");
+scanf("%d %d",&q,&p);
+if(m==q||n==p)
+{
+printf("Enter the elements of second matrix:\n");
+
+for(c=0;c<q;c++)
+ for(d=0;d<p;d++)
+  scanf("%d",&second[c][d]);
+
+printf("Sum of matrix is:\n");
+
+for(c=0;c<m;c++)
+{
+ for(d=0;d<n;d++)
+{
+   sum[c][d] = first[c][d]+second[c][d];
+ printf("%d\t",sum[c][d]);
+}
+printf("\n");
+}
+}
+else
+ printf("addition cannot possible!!!\n");
+
+return 0;                     
+}
+1921057@comput
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk2NTU0OTYsLTg1MjgxNjg4NiwxOD
-E4ODQ2NzUxLC0xMDgzMDMxNDk3LC05MTU5MTE2MjcsLTEyNDA1
-NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4ODYsNzA0NDY3NjMzLC
-0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0xOTQxMjkxODUwLDE5
-NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2NzY5NzUyLDE2NTY5MD
-E1MjgsLTcyODY3NDk2NSwtNzg4MTEwNTMzLDE0MDEzODQ2NjQs
-MTYxODAyNTI4MF19
+eyJoaXN0b3J5IjpbLTEwMzM3OTkwMzEsLTE0Nzk2NTU0OTYsLT
+g1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC05MTU5
+MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4OD
+YsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0x
+OTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2Nz
+Y5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4MTEwNTMz
+LDE0MDEzODQ2NjRdfQ==
 -->
