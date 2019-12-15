@@ -818,9 +818,22 @@ return 0;
 ```
 **OUTPUT**
 ```
-
+Enter the rows and colums of matrix:
+2 3
+Enter the elements of first matrix:
+1 2 3
+4 5 6
+Enter the rows and colums of second matrix:
+2 3
+Enter the elements of second matrix:
+1 2 3 
+4 5 6
+Sum of matrix is:
+2       4       6
+8       10      12
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTExMjcyLC0xNDc5NjU1NDk2LC04NT
+eyJoaXN0b3J5IjpbNDQ1NjEzMjg5LC0xNDc5NjU1NDk2LC04NT
 I4MTY4ODYsMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOTE1OTEx
 NjI3LC0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LD
 cwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0
