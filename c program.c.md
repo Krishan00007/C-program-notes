@@ -1,8 +1,8 @@
 # *PPS Assignment*
 
 
-![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm)
-
+![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm=80x70)
+ 
 ## ***Submitted By :***
 ##### ***Name : Krishan***           
 ##### ***Class Roll No. : 1921057***
