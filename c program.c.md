@@ -613,7 +613,7 @@ celsius value is:232.22
 kelvin value is:505.37
 ```
 
-## 17:Write a code to show stars pattern
+## 18:Write a code to show stars pattern
 ```
  // TO show stars using loop 
 #include<stdio.h>
@@ -646,7 +646,7 @@ int main()
 *
 ```
  
- ## 18:Write a code to show factorial result
+ ## 19:Write a code to show factorial result
  ```
  //To show factorial of user input
 #include<stdio.h>
@@ -669,7 +669,7 @@ return 0;
 Enter the factorial of:5
 5 X 4 X 3 X 2 X 1 X = 120
 ```
- ## 19:Write a code to show stars pattern 
+ ## 20:Write a code to show stars pattern 
  ```
  //to show star pattern for n numbers
 #include<stdio.h>
@@ -703,7 +703,7 @@ Enter the value upto pattern is shown:8
 * * * * * * * * 
 ```
 
-## 20:Write a code to show Matrix multipication
+## 21:Write a code to show Matrix multiplication
  ```
 #include<stdio.h>
 int main()
@@ -773,11 +773,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3NDkyNDksMTgxODg0Njc1MSwtMT
-A4MzAzMTQ5NywtOTE1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3
-NDUyOCwxOTAwNzk3ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNC
-wtMjAyNDAzMDc0MywtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0z
-NTQyMzk4MjksMTk0Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2Nz
-Q5NjUsLTc4ODExMDUzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAs
-NDg3NDA0MzAxXX0=
+eyJoaXN0b3J5IjpbLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMD
+gzMDMxNDk3LC05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0
+NTI4LDE5MDA3OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC
+0yMDI0MDMwNzQzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1
+NDIzOTgyOSwxOTQ2NzY5NzUyLDE2NTY5MDE1MjgsLTcyODY3ND
+k2NSwtNzg4MTEwNTMzLDE0MDEzODQ2NjQsMTYxODAyNTI4MCw0
+ODc0MDQzMDFdfQ==
 -->
