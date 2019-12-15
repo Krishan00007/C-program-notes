@@ -591,7 +591,7 @@ ___________________
 |        |        |
 |________|________|
 ```
-## 16:Write a code to convert fahrehnite to celcius and kelvin
+## 16:Write a code to convert Fahrenheit to Celsius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
                  #include<stdio.h>
@@ -773,11 +773,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NjEwMDk3LC0xMDgzMDMxNDk3LC05MT
-U5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4
-ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC
-0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2
-NzY5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4MTEwNT
-MzLDE0MDEzODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5
-NjgyMTAzNF19
+eyJoaXN0b3J5IjpbMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOT
+E1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3
+ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0My
+wtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0
+Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODExMD
+UzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAsNDg3NDA0MzAxLDIw
+OTY4MjEwMzRdfQ==
 -->
