@@ -506,7 +506,7 @@ enter operator[+ - % / *]:%
 enter second number:10
 The result is:0
 ```
-## 15:Write a code to call a patterns of face and calculator
+## 16:Write a code to call a patterns of face and calculator
 ```
 // call a pattern of face or calculator
        #include<stdio.h>
@@ -591,7 +591,7 @@ ___________________
 |        |        |
 |________|________|
 ```
-## 16:Write a code to convert Fahrenheit to Celsius and kelvin
+## 17:Write a code to convert Fahrenheit to Celsius and kelvin
 ```
   // To covert  fahrenheit to celsius and kelvin
                  #include<stdio.h>
@@ -773,11 +773,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOT
-E1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3
-ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0My
-wtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0
-Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODExMD
-UzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAsNDg3NDA0MzAxLDIw
-OTY4MjEwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ3NDkyNDksMTgxODg0Njc1MSwtMT
+A4MzAzMTQ5NywtOTE1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3
+NDUyOCwxOTAwNzk3ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNC
+wtMjAyNDAzMDc0MywtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0z
+NTQyMzk4MjksMTk0Njc2OTc1MiwxNjU2OTAxNTI4LC03Mjg2Nz
+Q5NjUsLTc4ODExMDUzMywxNDAxMzg0NjY0LDE2MTgwMjUyODAs
+NDg3NDA0MzAxXX0=
 -->
