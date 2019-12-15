@@ -351,22 +351,9 @@ int main()
 ```
 **OUTPUT**:
 ```
-table of:5
+enter the starting value of table range:2
 
- enter the starting value of range:20
-
- enter the last value of range:30
-5 x 20 = 100
-5 x 21 = 105
-5 x 22 = 110
-5 x 23 = 115
-5 x 24 = 120
-5 x 25 = 125
-5 x 26 = 130
-5 x 27 = 135
-5 x 28 = 140
-5 x 29 = 145
-5 x 30 = 150
+ enter the last value of table range:4
 ```
 ## 13:Write a source code to show even table
 ```
@@ -716,7 +703,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjAwNjI4MywtOTE1OTExNjI3LC0xMj
+eyJoaXN0b3J5IjpbMTMzNDU0MTQ0NSwtOTE1OTExNjI3LC0xMj
 QwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2NzYz
 MywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MTg1MC
 wxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0Njc2OTc1MiwxNjU2
