@@ -477,6 +477,14 @@ enter first  number:20
 enter operator[+ - % / *]: *
 enter second number:10
 The result is:200.00
+enter first  number:20
+enter operator[+ - % / *]:+
+enter second number:10
+The result is:30.00
+enter first  number:20
+enter operator[+ - % / *]:-
+enter second number:10
+The result is:10.00
 ```
 ## 15:Write a code to call a patterns of face and calculator
 ```
@@ -745,11 +753,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMwMzE0OTcsLTkxNTkxMTYyNywtMT
-I0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5Nzg4Niw3MDQ0Njc2
-MzMsLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NT
-AsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1
-NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4ND
-Y2NCwxNjE4MDI1MjgwLDQ4NzQwNDMwMSwyMDk2ODIxMDM0LC0y
-MTI4OTEyMDkyXX0=
+eyJoaXN0b3J5IjpbLTE4MjA1NTIyMTUsLTEwODMwMzE0OTcsLT
+kxNTkxMTYyNywtMTI0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5
+Nzg4Niw3MDQ0Njc2MzMsLTEyMzIyNzA1MDQsLTIwMjQwMzA3ND
+MsLTE5NDEyOTE4NTAsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5
+NDY3Njk3NTIsMTY1NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMT
+A1MzMsMTQwMTM4NDY2NCwxNjE4MDI1MjgwLDQ4NzQwNDMwMSwy
+MDk2ODIxMDM0XX0=
 -->
