@@ -1,7 +1,7 @@
 # *PPS Assignment*
 
 
-![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm=80x70)
+![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm)
 
 ## ***Submitted By :***
 ##### ***Name : Krishan***           
@@ -927,7 +927,7 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA4MTUzOTgsLTEyNTAzOTc3MzgsMT
+eyJoaXN0b3J5IjpbLTEyNTAzOTc3MzgsLTEyNTAzOTc3MzgsMT
 E5ODE1MTkzMywtNjg1NDEyMDYwLC04NTE5OTA0MTAsNDQ1NjEz
 Mjg5LC0xNDc5NjU1NDk2LC04NTI4MTY4ODYsMTgxODg0Njc1MS
 wtMTA4MzAzMTQ5NywtOTE1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4
