@@ -354,6 +354,42 @@ int main()
 enter the starting value of table range:2
 
  enter the last value of table range:4
+
+2 x 0 = 0
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+2 x 6 = 12
+2 x 7 = 14
+2 x 8 = 16
+2 x 9 = 18
+2 x 10 = 20
+
+3 x 0 = 0
+3 x 1 = 3
+3 x 2 = 6
+3 x 3 = 9
+3 x 4 = 12
+3 x 5 = 15
+3 x 6 = 18
+3 x 7 = 21
+3 x 8 = 24
+3 x 9 = 27
+3 x 10 = 30
+
+4 x 0 = 0
+4 x 1 = 4
+4 x 2 = 8
+4 x 3 = 12
+4 x 4 = 16
+4 x 5 = 20
+4 x 6 = 24
+4 x 7 = 28
+4 x 8 = 32
+4 x 9 = 36
+4 x 10 = 40
 ```
 ## 13:Write a source code to show even table
 ```
@@ -703,11 +739,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDU0MTQ0NSwtOTE1OTExNjI3LC0xMj
-QwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2NzYz
-MywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MTg1MC
-wxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0Njc2OTc1MiwxNjU2
-OTAxNTI4LC03Mjg2NzQ5NjUsLTc4ODExMDUzMywxNDAxMzg0Nj
-Y0LDE2MTgwMjUyODAsNDg3NDA0MzAxLDIwOTY4MjEwMzQsLTIx
-Mjg5MTIwOTJdfQ==
+eyJoaXN0b3J5IjpbLTE3Njk1MzYwODksLTkxNTkxMTYyNywtMT
+I0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5Nzg4Niw3MDQ0Njc2
+MzMsLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NT
+AsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1
+NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4ND
+Y2NCwxNjE4MDI1MjgwLDQ4NzQwNDMwMSwyMDk2ODIxMDM0LC0y
+MTI4OTEyMDkyXX0=
 -->
