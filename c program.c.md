@@ -864,14 +864,44 @@ No is positive
 enter a value :-16
 No is negative
 ```
-##
-
+## 24: Write a source code to show number is prime or not
+```
+#include<stdio.h>
+int main()
+{
+int last;
+printf("enter number:");
+scanf("%d",&last);
+int prime;
+for(int a=2;a<last;a++)
+{
+prime=0;
+for(int i=2;i<last;i++)
+{
+if(last%i==0)
+{
+prime=prime+1;
+printf("no. is not prime\n");
+break;
+}
+}
+if(prime==0)
+{
+printf("no. is prime\n");
+break;
+}
+break;
+}
+return 0;
+}
+```
+88
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNzQyMDAyLC02ODU0MTIwNjAsLTg1MT
-k5MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0OTYsLTg1MjgxNjg4
-NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC05MTU5MTE2MjcsLT
-EyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4ODYsNzA0NDY3
-NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0xOTQxMjkxOD
-UwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2NzY5NzUyLDE2
-NTY5MDE1MjhdfQ==
+eyJoaXN0b3J5IjpbLTYwODkzNjEyNiwtNjg1NDEyMDYwLC04NT
+E5OTA0MTAsNDQ1NjEzMjg5LC0xNDc5NjU1NDk2LC04NTI4MTY4
+ODYsMTgxODg0Njc1MSwtMTA4MzAzMTQ5NywtOTE1OTExNjI3LC
+0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAwNzk3ODg2LDcwNDQ2
+NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMDc0MywtMTk0MTI5MT
+g1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4MjksMTk0Njc2OTc1Miwx
+NjU2OTAxNTI4XX0=
 -->
