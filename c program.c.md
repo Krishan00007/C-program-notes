@@ -196,7 +196,7 @@ Perimeter of square:16
 Area of square:16
 Volume of square:64
 ```
-## 7:Write a source code to show puts value upto n number using loop
+## 8:Write a source code to show puts value upto n number using loop
 ```
 // to show punishment using loop
  #include<stdio.h>
@@ -224,7 +224,7 @@ WORK HARD AND ACHIEVE SUCCESS
 WORK HARD AND ACHIEVE SUCCESS 
 WORK HARD AND ACHIEVE SUCCESS
 ```
-## 8:Write a source code to show area,diameter,circumference of circle 
+## 9:Write a source code to show area,diameter,circumference of circle 
 ```
    #include<stdio.h>
  int main()
@@ -711,11 +711,11 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDc5Nzg4Niw3MDQ0Njc2MzMsLTEyMz
-IyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NTAsMTk0Njc2
-OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1NjkwMTUyOC
-wtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4NDY2NCwxNjE4
-MDI1MjgwLDQ4NzQwNDMwMSwyMDk2ODIxMDM0LC0yMTI4OTEyMD
-kyLC0yNjA0NDkxNjcsLTI3NzYwOTgxMSwxMTM1MjAwOTYxLC02
-NDMwODgyNTZdfQ==
+eyJoaXN0b3J5IjpbNDg4Nzc0NTI4LDE5MDA3OTc4ODYsNzA0ND
+Y3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0xOTQxMjkx
+ODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2NzY5NzUyLD
+E2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4MTEwNTMzLDE0MDEz
+ODQ2NjQsMTYxODAyNTI4MCw0ODc0MDQzMDEsMjA5NjgyMTAzNC
+wtMjEyODkxMjA5MiwtMjYwNDQ5MTY3LC0yNzc2MDk4MTEsMTEz
+NTIwMDk2MV19
 -->
