@@ -423,6 +423,7 @@ return 0;
 Enter starting value of range:10
 
 Enter ending value of range:15
+
 10 X 1 = 10                                                                  
 10 X 2 = 20                                                                  
 10 X 3 = 30
@@ -926,11 +927,11 @@ no. is not prime
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjA4NTkyOCwxMTk4MTUxOTMzLC02OD
-U0MTIwNjAsLTg1MTk5MDQxMCw0NDU2MTMyODksLTE0Nzk2NTU0
-OTYsLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC
-05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3
-OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNz
-QzLC0xOTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwx
-OTQ2NzY5NzUyXX0=
+eyJoaXN0b3J5IjpbLTEyNTAzOTc3MzgsMTE5ODE1MTkzMywtNj
+g1NDEyMDYwLC04NTE5OTA0MTAsNDQ1NjEzMjg5LC0xNDc5NjU1
+NDk2LC04NTI4MTY4ODYsMTgxODg0Njc1MSwtMTA4MzAzMTQ5Ny
+wtOTE1OTExNjI3LC0xMjQwNTY5Mjc1LDQ4ODc3NDUyOCwxOTAw
+Nzk3ODg2LDcwNDQ2NzYzMywtMTIzMjI3MDUwNCwtMjAyNDAzMD
+c0MywtMTk0MTI5MTg1MCwxOTQ2NzY5NzUyLC0zNTQyMzk4Mjks
+MTk0Njc2OTc1Ml19
 -->
