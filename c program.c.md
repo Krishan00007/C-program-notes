@@ -833,8 +833,31 @@ Sum of matrix is:
 8       10      12
 ```
 ## 23: Write a source code to show number is positive or negative
+```
+     // To show positive or negative number  
+   #include<stdio.h>
+int main()
+{
+ int a;
+ printf("enter a value :");
+  scanf("%d",&a);
+
+if(a>0)
+printf("No is positive\n");
+
+else if(a<0)
+printf("No is negative\n");
+
+else {
+ printf("It is not positive or negative");
+      }
+return 0;
+}
+```
+***OUTPUT***
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQ0OTk4NCw0NDU2MTMyODksLTE0Nz
+eyJoaXN0b3J5IjpbMTc4MTQ0ODY2Miw0NDU2MTMyODksLTE0Nz
 k2NTU0OTYsLTg1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMx
 NDk3LC05MTU5MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LD
 E5MDA3OTc4ODYsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0
