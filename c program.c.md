@@ -6,7 +6,7 @@
 ## ***Submitted By :***
 ##### ***Name : Krishan***           
 ##### ***Class Roll No. : 1921057***
-####
+####***
 ##### ***Branch : Information Tecnology(I.T)***
 ##### ***Section  : I.T. A2***
 ##### ***Subject code: ESC18104/18105***
@@ -711,7 +711,7 @@ product of the matrix:
 23      34
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTg5NzIxMSw3MDQ0Njc2MzMsLTEyMz
+eyJoaXN0b3J5IjpbMTQ3NDkwMDIwNSw3MDQ0Njc2MzMsLTEyMz
 IyNzA1MDQsLTIwMjQwMzA3NDMsLTE5NDEyOTE4NTAsMTk0Njc2
 OTc1MiwtMzU0MjM5ODI5LDE5NDY3Njk3NTIsMTY1NjkwMTUyOC
 wtNzI4Njc0OTY1LC03ODgxMTA1MzMsMTQwMTM4NDY2NCwxNjE4
