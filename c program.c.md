@@ -774,6 +774,10 @@ product of the matrix:
 ```
 ## 22: Write a code to show matrix addition
 ```
+#include<stdio.h>
+int main()
+{
+ int m,n,q,p,c,d;
  int first[100][100],second[100][100],sum[100][100];
 // first matrix
 printf("Enter the rows and colums of matrix:\n");
@@ -811,14 +815,13 @@ else
 
 return 0;                     
 }
-1921057@comput
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM3OTkwMzEsLTE0Nzk2NTU0OTYsLT
-g1MjgxNjg4NiwxODE4ODQ2NzUxLC0xMDgzMDMxNDk3LC05MTU5
-MTE2MjcsLTEyNDA1NjkyNzUsNDg4Nzc0NTI4LDE5MDA3OTc4OD
-YsNzA0NDY3NjMzLC0xMjMyMjcwNTA0LC0yMDI0MDMwNzQzLC0x
-OTQxMjkxODUwLDE5NDY3Njk3NTIsLTM1NDIzOTgyOSwxOTQ2Nz
-Y5NzUyLDE2NTY5MDE1MjgsLTcyODY3NDk2NSwtNzg4MTEwNTMz
-LDE0MDEzODQ2NjRdfQ==
+eyJoaXN0b3J5IjpbLTg1MzE1NDY3MywtMTQ3OTY1NTQ5NiwtOD
+UyODE2ODg2LDE4MTg4NDY3NTEsLTEwODMwMzE0OTcsLTkxNTkx
+MTYyNywtMTI0MDU2OTI3NSw0ODg3NzQ1MjgsMTkwMDc5Nzg4Ni
+w3MDQ0Njc2MzMsLTEyMzIyNzA1MDQsLTIwMjQwMzA3NDMsLTE5
+NDEyOTE4NTAsMTk0Njc2OTc1MiwtMzU0MjM5ODI5LDE5NDY3Nj
+k3NTIsMTY1NjkwMTUyOCwtNzI4Njc0OTY1LC03ODgxMTA1MzMs
+MTQwMTM4NDY2NF19
 -->
